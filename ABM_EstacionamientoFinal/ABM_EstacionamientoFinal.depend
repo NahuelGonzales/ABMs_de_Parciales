@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1507129398 source:f:\evaluacion 2017\final\abm_estacionamientofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1507129398 f:\evaluacion 2017\final\abm_estacionamientofinal\lib.h
+
+1507129583 source:f:\evaluacion 2017\final\abm_estacionamientofinal\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1508269679 source:g:\evaluacion 2017\final\abm_estacionamientofinal\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1507676750 g:\evaluacion 2017\final\abm_estacionamientofinal\lib.h
+
+1525797888 source:g:\evaluacion 2017\final\abm_estacionamientofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
